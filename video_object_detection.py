@@ -4,7 +4,7 @@ import numpy as np
 
 
 
-labels = ["1 TON TASSAK","bicycle","car","motorcycle","airplane","bus","train","truck","boat",
+labels = ["Person","bicycle","car","motorcycle","airplane","bus","train","truck","boat",
             "trafficlight","firehydrant","stopsign","parkingmeter","bench","bird","cat",
             "dog","horse","sheep","cow","elephant","bear","zebra","giraffe","backpack",
             "umbrella","handbag","tie","suitcase","frisbee","skis","snowboard","sportsball",
